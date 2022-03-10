@@ -1,0 +1,39 @@
+/*---- Base styles ----*/
+
+.button {
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+/*---- Variants ----*/
+
+.primary {
+  /* Blue */
+  background-color: #1ea7fd;
+}
+
+.secondary {
+  /* Grey */
+  background-color: #e7e7e7;
+  color: #333;
+}
+
+.success {
+  /* Green */
+  background-color: #4caf50;
+}
+
+.danger {
+  /* Red */
+  background-color: #f44336;
+}
