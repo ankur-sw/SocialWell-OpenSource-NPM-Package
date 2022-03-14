@@ -3,6 +3,7 @@
 .input {
   display: block;
   width: 250px;
+  height: 30px;
   padding-left: 1rem;
   padding-right: 1rem;
   border-radius: 0.25rem;
@@ -13,7 +14,7 @@
 
 /*---- Variants ----*/
 
-.small {
+/* .small {
   height: 1.5rem;
   font-size: 0.875rem;
 }
@@ -26,4 +27,4 @@
 .large {
   height: 2.5rem;
   font-size: 1.25rem;
-}
+} */
