@@ -1,6 +1,6 @@
 import { Container, TextInput, InputContainer, Icon } from "styled-components";
 
-export const MobileNumber = ({
+const MobileNumber = ({
   country = "India",
   value,
   label = "Mobile Number",
