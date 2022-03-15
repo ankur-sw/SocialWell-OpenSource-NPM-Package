@@ -22,6 +22,7 @@ Default.args = {
       "Assistant Engineer II, Dhenkanal Municipality",
       "Community Organiser",
       "Ward 1, Ward 2, Ward 3",
+      "ACTIVE",
     ],
     [
       "BL21W2021",
@@ -31,6 +32,7 @@ Default.args = {
       "Assistant Engineer II, Dhenkanal Municipality",
       "Community Organiser",
       "Ward 1, Ward 2, Ward 3",
+      "ACTIVE",
     ],
     [
       "BL21W2021",
@@ -40,6 +42,7 @@ Default.args = {
       "Assistant Engineer II, Dhenkanal Municipality",
       "Community Organiser",
       "Ward 1, Ward 2, Ward 3",
+      "ACTIVE",
     ],
     [
       "BL21W2021",
@@ -49,6 +52,7 @@ Default.args = {
       "Assistant Engineer II, Dhenkanal Municipality",
       "Community Organiser",
       "Ward 1, Ward 2, Ward 3",
+      "ACTIVE",
     ],
   ],
   headers: [
@@ -59,5 +63,6 @@ Default.args = {
     "DESIGNATION",
     "ROLE",
     "JURISDICTION",
+    "STATUS",
   ],
 };

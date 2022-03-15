@@ -6,7 +6,6 @@
 .column {
   display: flex;
   flex-direction: column;
-  width: 190px;
 }
 .cell,
 .header {
@@ -26,6 +25,7 @@
   font-size: 12px;
   line-height: 16px;
   position: relative;
+  text-align: center;
 }
 
 .outerHeader {
@@ -36,6 +36,6 @@
   border-bottom: 1px solid #e2e8f0;
 }
 .cell {
-  text-align: left;
-  height: 40px;
+  text-align: center;
+  height: 80px;
 }
